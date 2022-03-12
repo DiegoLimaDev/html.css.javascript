@@ -1,0 +1,115 @@
+body {
+  background: #5c8fd2;
+}
+
+.post_content {
+  margin: 0;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.post {
+  background: #5c8fbc;
+  padding-top: 15px;
+  border: 3px solid black;
+  border-radius: 10px;
+  margin: 0;
+  margin-bottom: 10px;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.footer_contatos {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.contatos {
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+.contatos {
+
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.ul1 {
+  margin-top: -8px;
+  margin-bottom: 2px;
+  margin-left: 10px;
+ 
+}
+
+.ul2, .contato1, contato2 {
+  margin-top: -15px;
+  margin-bottom: 15px;
+  text-align: center;
+  list-style-type: none;
+}
+
+
+#title, .subtitle, .post_title{
+color: black;
+  text-align:center;
+  
+}
+#title {
+  font-weight: bold;
+  font-size: 30px;
+  font-style: italic,
+}
+.subtitle {
+  font-size: 18px;
+  font-style: italic;
+}
+.post_title {
+  font-size: 16px;
+  font-style: italic;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+IMG.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 15px;
+  border-radius: 50%;
+}
+IMG.img_html {
+  width: 900px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  margin-top: 0;
+  
+}
+
+.referencia, .alternativas {
+  margin-top: 0;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.end_alternativas {
+  margin-top: 0;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: -5px;
+}
+
+
+.fonte_geral {
+  font-family: arial, verdana;
+}
+
