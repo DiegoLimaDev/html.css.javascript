@@ -46,13 +46,26 @@ body {
  
 }
 
-.ul2, .contato1, contato2 {
+.contato1 {
   margin-top: -15px;
   margin-bottom: 15px;
-  text-align: center;
-  list-style-type: none;
+  -ms-transform: translateX(0%);
+  transform: translateX(600%);
 }
 
+.contato2 {
+  margin-top: -15px;
+  margin-bottom: 15px;
+  -ms-transform: translateX(0%);
+  transform: translateX(600%);
+}
+
+.contato3 {
+  margin-top: -15px;
+  margin-bottom: 15px;
+  -ms-transform: translateX(0%);
+  transform: translateX(760%);
+}
 
 #title, .subtitle, .post_title{
 color: black;
