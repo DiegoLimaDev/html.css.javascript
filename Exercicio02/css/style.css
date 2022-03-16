@@ -1,0 +1,36 @@
+body {
+    font-family: arial, verdana;
+}
+
+.navbar {
+    background-color: #6633FF;
+}
+
+.nav-item {
+    padding-right: 50px;
+    padding-left: 0;
+}
+
+.quem_somos {
+    background-color: #A9DFBF;
+}
+
+.cursos {
+    background-color: #6633FF ;
+}
+
+.corpo_docente {
+    background-color: #A9DFBF;
+
+}
+.bg_footer {
+    background-color: #6633FF;
+    color:white ;
+}
+
+.margin {
+    
+    padding-top: 18px;
+    padding-bottom: 25px;
+}
+
