@@ -1,0 +1,21 @@
+.div_principal {
+    display: grid;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    width: 10vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.text_principal {
+    font-size: 17px;
+    text-transform: uppercase;
+    color:rgba(63, 82, 136, 0.89)
+}
+
+.dark-mode {
+    background-color: rgb(19, 18, 18);
+}
